@@ -1,5 +1,6 @@
 # This is a  python script written on nano. 
 
-def temperature():
-	print temperature
+temperature = 10
 
+def print_temperature():
+    print(temperature)
